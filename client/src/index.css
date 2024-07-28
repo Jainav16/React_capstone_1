@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*
+By default, the amount of space an element will take
+equals it's height/width + padding
+*/
+
